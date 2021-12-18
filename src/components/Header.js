@@ -21,8 +21,7 @@ export default function Header() {
           information contained on the Internet, not requiring any user data.
           Physically, we cannot. We don't have where to store it. We don't even
           have a server database to store it. So even if the Pope kindly asked
-          to see his data, we would have nothing to show. Olá, me chamo Gilmar
-          Fernandes, tenho 27 anos e sou de Belo Horizonte/MG
+          to see his data, we would have nothing to show.
           <br />
           <br />
           ----------------------------------------------------------------------------------------------
